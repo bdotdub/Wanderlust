@@ -1,0 +1,3 @@
+github "Instagram/IGListKit" "3.4.0"
+github "SnapKit/SnapKit" "4.2.0"
+github "flipboard/FLEX" "2.4.0"
